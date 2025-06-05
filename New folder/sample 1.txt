@@ -1,4 +1,6 @@
 int a=10;
 b=20;
 c=20;
+float f=12.5;
+char c='a';
 syso(a+b+c);
